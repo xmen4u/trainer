@@ -2,13 +2,16 @@ Trainer using Angular.js, Express.js, Socket.io, bootstrap.js,  AWS-sdk node.js 
 ====================
 
 This project's is a simple, usage of various technologies. 
-There haven't been testing added [yet] as it's an internal application on the go, 
-that show case coding style, usage of angular.js, socket.io, bower, bootstrap.js, aws-sdk, node.js
-no fancy UI, but it should give you a nice clue to the boilerplate i used.
+I haven't added "testing"  [yet] as it's an internal application on the go, 
+purpose is to show coding style, usage of angular.js, socket.io, bower, bootstrap.js, aws-sdk, node.js
+no fancy UI, but it should give you a nice clue to the boilerplate i use.
 
 You [currently] won't find here any:
-node.js 's cluster / streams / async.js [or other] / error handling / tests , even though they are important
-this is a simple project to show case [and do work] of the style, integration of this type of stack and my code conventions
+node.js 's cluster / streams / async.js [or other] / error handling / tests , even though they are important,
+but aren't needed here.
+this is a simple project to show case [and do work] of the style, integration of this type of stack and my coding conventions.
+
+This simple system is used to train [human] a test-date, in the "training" stage of a machine-learning mechanism, we use.
 
 ToC
 ---------------------
